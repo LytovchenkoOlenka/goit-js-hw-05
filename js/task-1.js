@@ -1,3 +1,5 @@
+'use strict';
+
 function slugify(title) {
   const titleLowerCase = title.toLowerCase();
   const arraySlug = titleLowerCase.split(' ');

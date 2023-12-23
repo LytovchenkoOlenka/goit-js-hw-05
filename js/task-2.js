@@ -1,3 +1,5 @@
+'use strict';
+
 function makeArray(firstArray, secondArray, maxLength) {
   const commonArray = firstArray.concat(secondArray);
 
