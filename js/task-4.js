@@ -48,6 +48,6 @@ const allUsersData = [
 
 console.log('______________TASK-4________________');
 
-console.log(getTotalBalanceByGender(allUsers, 'male')); // 12053
+console.log(getTotalBalanceByGender(allUsersData, 'male')); // 12053
 
-console.log(getTotalBalanceByGender(allUsers, 'female')); // 8863
+console.log(getTotalBalanceByGender(allUsersData, 'female')); // 8863
